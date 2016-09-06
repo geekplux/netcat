@@ -1,0 +1,21 @@
+{
+  "name": "netcat",
+  "version": "0.0.1",
+  "description": "making http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "netcat",
+    "cat",
+    "http",
+    "request"
+  ],
+  "author": "geekplux",
+  "repository": "geekplux/netcat",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
